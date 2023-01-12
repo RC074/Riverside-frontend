@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Riverside/static/css/main.887d9521.css",
+    "main.js": "/Riverside/static/js/main.0d756bf7.js",
+    "static/media/bg.svg": "/Riverside/static/media/bg.6e7ba9405305b23d2fbcc7b9312d6ff3.svg",
+    "static/media/top.svg": "/Riverside/static/media/top.6b7bf6148ab7b1778fb3.svg",
+    "index.html": "/Riverside/index.html",
+    "static/media/bot.svg": "/Riverside/static/media/bot.50d1ff17e265da2d1cf7.svg",
+    "main.887d9521.css.map": "/Riverside/static/css/main.887d9521.css.map",
+    "main.0d756bf7.js.map": "/Riverside/static/js/main.0d756bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887d9521.css",
+    "static/js/main.0d756bf7.js"
+  ]
+}
